@@ -1,0 +1,35 @@
+*
+{
+	padding: 0;
+	margin: 0;
+	box-sizing:border-box;
+}
+body
+{
+	background-image:url(images/prova.jpg);
+	background-size: cover;
+	font-family:'arial';
+
+}
+
+p {
+	font-size: 22px;
+    color:white;
+    text-align:right;
+    padding-top: 90px;
+	margin-left:550px;
+	text-align: justify;
+     margin-bottom: 600px;
+   
+ }
+
+a{
+	position: absolute;
+	margin-top: -1px;
+ 	margin-left: 1000px;
+ 
+ }
+ a:hover{
+ 	color:white;
+ }
+
