@@ -1,0 +1,42 @@
+.container{
+	font-family: 'Flavors', cursive;
+
+
+}
+
+.navbar {
+	font-family: 'Flavors', cursive;
+}
+
+
+.container h5{
+	font-size: 30px;
+	color: #ffff00;
+}
+.container h1{
+font-size: 50px;
+color: blue;
+}
+
+.blockquote{
+	font-size: 30px;
+	color: blue;
+}
+body {
+    background-image:url(images/sfondo.png) !important;
+    background-size: cover; 
+}
+
+
+@media (min-width: 576px) { ... }
+
+
+@media (min-width: 768px) { ... }
+
+
+@media (min-width: 992px) { ... }
+
+
+@media (min-width: 1200px) { ... }
+
+@media (min-width: 1400px) {...}
